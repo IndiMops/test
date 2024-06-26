@@ -2,9 +2,9 @@
     "messages": {
         "test_locale": "This is just a test text",
         "locale_name": "English",
-        "test_text": "Це просто тестовий текст...",
-        "test_text_var": "Це просто тестовий текст, що має в собі змінну: {0}",
-        "set_locale_title": "Мова бота встановлена",
+        "test_text": "This is just a test text...",
+        "test_text_var": "This is just a test text that contains a variable: {0}",
+        "set_locale_title": "The bot language is set",
         "set_locale_description": "На цьому сервері тепер використовується `{0}`",
         "error_locale_title": "Помилка встановлення мови",
         "error_locale_description": "Правильне використання: `/locale set`\\nДоступні мови: {1}",
